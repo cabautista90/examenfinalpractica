@@ -4,22 +4,39 @@ repositorio del examen final practica
 #estructura del proyecto con la creacion de la carpetas de forma local en visual code
 
 #Examenfinalpractica
+
 ├── /app
-│   ├── /config
+
+│   ├── /
+
 │   │   └── database.php
+
 │   ├── /controllers
+
 │   │   └── LibroController.php
+
 │   ├── /models
+
 │   │   └── Libro.php
+
 │   └── /views
+
 │       └── index.php
+
 │
+
 ├── /public
+
 │   ├── .htaccess
+
 │   └── index.php
+
 │
+
 ├── /vendor
+
 ├── composer.json
+
 └── package.json
 
 ##creamos una interfaz utilizando HTML
